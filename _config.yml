@@ -1,5 +1,6 @@
 name: Lummox Labs, app makers and rogues
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+highlighter: rouge
 
 theme: jekyll-theme-tactile
