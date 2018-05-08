@@ -12,7 +12,7 @@ The vast majority of the visual changes during a game of FD come from changes in
 
 Here's the basic idea in code:
 
-```
+```swift
 class GameViewController: UIViewController {
 ...
   func doActionAndUpdate(action: GameAction, completion: (() -> ())? = nil) {
