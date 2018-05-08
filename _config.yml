@@ -1,1 +1,3 @@
-theme: jekyll-theme-slate
+name: Lummox Labs, app makers and rogues
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
