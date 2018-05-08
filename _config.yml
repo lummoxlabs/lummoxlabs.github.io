@@ -3,4 +3,4 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 highlighter: rouge
 
-remote_theme: broccolini/swiss
+remote_theme: "broccolini/swiss"
