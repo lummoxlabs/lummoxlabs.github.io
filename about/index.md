@@ -3,6 +3,8 @@ layout: default
 title: About Lummox Labs
 ---
 
+### About Lummox Labs
+
 Lummox Labs was created in early 2015 to focus on building best-in-class mobile apps. Based in Toronto, Lummox is focused on indie game projects and freelance mobile client development, mostly in the consumer space.
 
 Michael Busheikin is Lummox's founder. He heads up development, prototyping, testing, coloured rectangular interface design, workplace health and safety, cloud computing initiatives, and office DJ'ing.
