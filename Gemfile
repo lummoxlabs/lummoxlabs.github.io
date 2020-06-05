@@ -1,3 +1,2 @@
-source 'https://rubygems.org'
-gem 'bundler'
-gem 'jekyll'
+source "https://rubygems.org"
+gemspec

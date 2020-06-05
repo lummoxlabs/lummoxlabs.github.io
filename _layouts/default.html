@@ -1,34 +1,27 @@
 <!DOCTYPE html>
-<html>
+<html class="no-js">
   <head>
-    <title>{{ page.title }}</title>
 
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    {% include head.html %}
 
   </head>
-
-
   <body>
-    <nav>
-<ul>
-<li><a href="/">Home</a></li>
-<li><a href="/sushigopresskit">Sushi Go Presskit</a></li>
-<li><a href="/about">About</a></li>
-<li><a href="/apps">Apps</a></li>
-<li><a href="/contact">Contact</a></li>
-</ul>
-    </nav>
-<div class="container">
 
-  {{ content }}
 
-</div>
+    {% include header.html %}
 
-  <footer>
-   <ul>
-    <li><a href="mailto:michael@lummoxlabs.com">email</a></li>
-   </ul>
-  </footer>
-  </body>
 
+    {{ content }}
+
+
+
+
+
+
+
+
+
+    {% include footer.html %}
+
+    </body>
 </html>
